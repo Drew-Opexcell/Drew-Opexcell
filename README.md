@@ -19,6 +19,7 @@ points. DOI: [10.5281/zenodo.21392342](https://doi.org/10.5281/zenodo.21392342).
 
 ## Open source
 
+- **[pebble-lang](https://github.com/Drew-Opexcell/pebble-lang)** ([live playground](https://pebble-lang.vercel.app)): a small scripting language built from scratch in TypeScript. Hand-written lexer, Pratt parser, tree-walking evaluator with real closures. No parser generators, no eval, no deps.
 - **[judge-lottery](https://github.com/Drew-Opexcell/judge-lottery)**: the study above, fully reproducible from SSA public data.
 - **[jobscout](https://github.com/Drew-Opexcell/jobscout)**: source remote job postings, score them against your target roles, find the hiring manager.
 - **[hushbeat](https://github.com/Drew-Opexcell/hushbeat)**: monitoring that only speaks when something is wrong.
